@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 6px;
+    text-align: center;
+}
+
+.top1 {
+    background-color: aqua;
+}
+
+.top2 {
+    background-color: coral;
+}
